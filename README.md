@@ -4,6 +4,10 @@
   </a>
 </h1>
 
+<p align="center">
+  Lightweight AutoHotkey (AHK) no sense script
+</p>
+
 ## 📋 Using
 
 * Key to start script ```F6 (0x75)```
